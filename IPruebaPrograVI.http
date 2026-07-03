@@ -1,0 +1,6 @@
+@IPruebaPrograVI_HostAddress = http://localhost:5012
+
+GET {{IPruebaPrograVI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
